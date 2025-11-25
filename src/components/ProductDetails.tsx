@@ -38,7 +38,7 @@ Quantity: ${quantity}
 
 Please let me know about availability and shipping details.`;
 
-    const whatsappUrl = `https://wa.me/1234567890?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/‪919986719548‬?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 
