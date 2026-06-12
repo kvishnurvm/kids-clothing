@@ -56,13 +56,13 @@ export function Footer() {
                 hello@littlestars.com
               </a>
               <a
-                href="https://wa.me/‪919986719548‬"
+                href="https://wa.me/‪918590166939"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-600 hover:text-[#25D366] transition-colors"
               >
                 <MessageCircle className="w-5 h-5" />
-                WhatsApp: ‪+91 99867 19548‬
+                WhatsApp: ‪+91 85901 66939‬
               </a>
             </div>
             <div className="pt-4">
